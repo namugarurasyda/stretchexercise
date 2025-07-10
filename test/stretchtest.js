@@ -1,3 +1,4 @@
+// Written by Namugarura Syda and Waako Conrad
 const assert = require('chai');
 import {taxcalculator} from '../stretchtest.js';
 
